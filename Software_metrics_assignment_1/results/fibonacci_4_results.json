@@ -1,0 +1,42 @@
+{
+  "files": {
+    "/Users/MBABU1/Downloads/software_metrics_course/module1_basics/fibonacci_4.c": {
+      "language": "c",
+      "physical_loc": [
+        79,
+        16,
+        38
+      ],
+      "logical_loc": 25,
+      "num_functions": 3,
+      "functions": [
+        "fibonacci",
+        "main",
+        "if"
+      ],
+      "cyclomatic_complexity": [
+        4,
+        3,
+        1
+      ],
+      "fan_in": {
+        "fibonacci": 2,
+        "main": 0,
+        "if": 0
+      },
+      "fan_out": {
+        "fibonacci": 1,
+        "main": 3,
+        "if": 1
+      }
+    }
+  },
+  "modules": {
+    "/Users/MBABU1/Downloads/software_metrics_course/module1_basics": {
+      "total_physical_loc": 79,
+      "total_logical_loc": 25,
+      "total_functions": 3,
+      "total_complexity": 8
+    }
+  }
+}

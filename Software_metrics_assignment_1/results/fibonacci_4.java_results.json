@@ -1,0 +1,46 @@
+{
+  "files": {
+    "/Users/MBABU1/Downloads/software_metrics_course/module1_basics/fibonacci_4.java": {
+      "language": "java",
+      "physical_loc": [
+        82,
+        17,
+        38
+      ],
+      "logical_loc": 26,
+      "num_functions": 4,
+      "functions": [
+        "fibonacci",
+        "main",
+        "if",
+        "for"
+      ],
+      "cyclomatic_complexity": [
+        4,
+        3,
+        1,
+        1
+      ],
+      "fan_in": {
+        "fibonacci": 3,
+        "main": 0,
+        "if": 0,
+        "for": 0
+      },
+      "fan_out": {
+        "fibonacci": 1,
+        "main": 5,
+        "if": 1,
+        "for": 1
+      }
+    }
+  },
+  "modules": {
+    "/Users/MBABU1/Downloads/software_metrics_course/module1_basics": {
+      "total_physical_loc": 82,
+      "total_logical_loc": 26,
+      "total_functions": 4,
+      "total_complexity": 9
+    }
+  }
+}

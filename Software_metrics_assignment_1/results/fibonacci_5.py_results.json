@@ -1,0 +1,38 @@
+{
+  "files": {
+    "/Users/MBABU1/Downloads/software_metrics_course/module1_basics/fibonacci_5.py": {
+      "language": "py",
+      "physical_loc": [
+        39,
+        6,
+        1
+      ],
+      "logical_loc": 9,
+      "num_functions": 2,
+      "functions": [
+        "fibonacci",
+        "main"
+      ],
+      "cyclomatic_complexity": [
+        1,
+        1
+      ],
+      "fan_in": {
+        "fibonacci": 0,
+        "main": 0
+      },
+      "fan_out": {
+        "fibonacci": 0,
+        "main": 0
+      }
+    }
+  },
+  "modules": {
+    "/Users/MBABU1/Downloads/software_metrics_course/module1_basics": {
+      "total_physical_loc": 39,
+      "total_logical_loc": 9,
+      "total_functions": 2,
+      "total_complexity": 2
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "/Users/MBABU1/Downloads/fibonacci_1.c": {
+    "language": "c",
+    "physical_loc": [
+      35,
+      7,
+      1
+    ],
+    "logical_loc": 26,
+    "functions": [
+      "fibonacci",
+      "main",
+      "if"
+    ],
+    "num_functions": 3,
+    "cyclomatic_complexity": [
+      3,
+      2,
+      1
+    ],
+    "fan_out": {
+      "fibonacci": 1,
+      "main": 3,
+      "if": 1
+    },
+    "fan_in": {
+      "fibonacci": 1,
+      "main": 0,
+      "if": 0
+    }
+  }
+}

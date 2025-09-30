@@ -1,0 +1,2152 @@
+{
+  "repo_totals": {
+    "physical_loc": [
+      644892,
+      104083,
+      36426
+    ],
+    "logical_loc": 179758,
+    "num_functions": 30615,
+    "cyclomatic_complexity": 244820,
+    "fan_in": 30615,
+    "fan_out": 178889
+  },
+  "modules": {
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas": {
+      "physical_loc": [
+        788,
+        137,
+        49
+      ],
+      "logical_loc": 196,
+      "num_functions": 21,
+      "cyclomatic_complexity": 60,
+      "fan_in": 21,
+      "fan_out": 107
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/web": {
+      "physical_loc": [
+        506,
+        59,
+        14
+      ],
+      "logical_loc": 185,
+      "num_functions": 12,
+      "cyclomatic_complexity": 37,
+      "fan_in": 12,
+      "fan_out": 153
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/web/tests": {
+      "physical_loc": [
+        88,
+        15,
+        0
+      ],
+      "logical_loc": 36,
+      "num_functions": 7,
+      "cyclomatic_complexity": 8,
+      "fan_in": 7,
+      "fan_out": 14
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/asv_bench/benchmarks": {
+      "physical_loc": [
+        9675,
+        2264,
+        160
+      ],
+      "logical_loc": 4535,
+      "num_functions": 1339,
+      "cyclomatic_complexity": 1819,
+      "fan_in": 1339,
+      "fan_out": 4088
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/asv_bench/benchmarks/io": {
+      "physical_loc": [
+        1610,
+        322,
+        18
+      ],
+      "logical_loc": 793,
+      "num_functions": 182,
+      "cyclomatic_complexity": 283,
+      "fan_in": 182,
+      "fan_out": 710
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/asv_bench/benchmarks/algos": {
+      "physical_loc": [
+        353,
+        79,
+        7
+      ],
+      "logical_loc": 157,
+      "num_functions": 26,
+      "cyclomatic_complexity": 54,
+      "fan_in": 26,
+      "fan_out": 121
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/asv_bench/benchmarks/tslibs": {
+      "physical_loc": [
+        782,
+        182,
+        23
+      ],
+      "logical_loc": 282,
+      "num_functions": 98,
+      "cyclomatic_complexity": 134,
+      "fan_in": 98,
+      "fan_out": 231
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/scripts": {
+      "physical_loc": [
+        2449,
+        383,
+        78
+      ],
+      "logical_loc": 761,
+      "num_functions": 61,
+      "cyclomatic_complexity": 95,
+      "fan_in": 61,
+      "fan_out": 506
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/scripts/tests": {
+      "physical_loc": [
+        1114,
+        99,
+        18
+      ],
+      "logical_loc": 411,
+      "num_functions": 44,
+      "cyclomatic_complexity": 52,
+      "fan_in": 44,
+      "fan_out": 151
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/doc": {
+      "physical_loc": [
+        391,
+        51,
+        11
+      ],
+      "logical_loc": 142,
+      "num_functions": 14,
+      "cyclomatic_complexity": 120,
+      "fan_in": 14,
+      "fan_out": 119
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/doc/sphinxext": {
+      "physical_loc": [
+        234,
+        58,
+        16
+      ],
+      "logical_loc": 68,
+      "num_functions": 7,
+      "cyclomatic_complexity": 10,
+      "fan_in": 7,
+      "fan_out": 76
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/doc/source": {
+      "physical_loc": [
+        852,
+        153,
+        198
+      ],
+      "logical_loc": 70,
+      "num_functions": 13,
+      "cyclomatic_complexity": 47,
+      "fan_in": 13,
+      "fan_out": 42
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/doc/scripts": {
+      "physical_loc": [
+        108,
+        32,
+        0
+      ],
+      "logical_loc": 40,
+      "num_functions": 4,
+      "cyclomatic_complexity": 4,
+      "fan_in": 4,
+      "fan_out": 43
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas": {
+      "physical_loc": [
+        3704,
+        616,
+        266
+      ],
+      "logical_loc": 639,
+      "num_functions": 168,
+      "cyclomatic_complexity": 200,
+      "fan_in": 168,
+      "fan_out": 308
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/compat": {
+      "physical_loc": [
+        571,
+        90,
+        17
+      ],
+      "logical_loc": 127,
+      "num_functions": 18,
+      "cyclomatic_complexity": 36,
+      "fan_in": 18,
+      "fan_out": 43
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/compat/numpy": {
+      "physical_loc": [
+        424,
+        86,
+        7
+      ],
+      "logical_loc": 164,
+      "num_functions": 13,
+      "cyclomatic_complexity": 21,
+      "fan_in": 13,
+      "fan_out": 75
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core": {
+      "physical_loc": [
+        53958,
+        8194,
+        2191
+      ],
+      "logical_loc": 7898,
+      "num_functions": 1328,
+      "cyclomatic_complexity": 56059,
+      "fan_in": 1328,
+      "fan_out": 4586
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/indexers": {
+      "physical_loc": [
+        1100,
+        177,
+        54
+      ],
+      "logical_loc": 273,
+      "num_functions": 24,
+      "cyclomatic_complexity": 46,
+      "fan_in": 24,
+      "fan_out": 162
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/reshape": {
+      "physical_loc": [
+        8402,
+        1164,
+        454
+      ],
+      "logical_loc": 1702,
+      "num_functions": 131,
+      "cyclomatic_complexity": 1421,
+      "fan_in": 131,
+      "fan_out": 1066
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/strings": {
+      "physical_loc": [
+        4522,
+        667,
+        100
+      ],
+      "logical_loc": 721,
+      "num_functions": 127,
+      "cyclomatic_complexity": 2405,
+      "fan_in": 127,
+      "fan_out": 371
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/tools": {
+      "physical_loc": [
+        1925,
+        306,
+        84
+      ],
+      "logical_loc": 409,
+      "num_functions": 26,
+      "cyclomatic_complexity": 55,
+      "fan_in": 26,
+      "fan_out": 217
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/methods": {
+      "physical_loc": [
+        957,
+        167,
+        52
+      ],
+      "logical_loc": 309,
+      "num_functions": 28,
+      "cyclomatic_complexity": 80,
+      "fan_in": 28,
+      "fan_out": 236
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/util": {
+      "physical_loc": [
+        500,
+        88,
+        26
+      ],
+      "logical_loc": 141,
+      "num_functions": 10,
+      "cyclomatic_complexity": 10,
+      "fan_in": 10,
+      "fan_out": 98
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/array_algos": {
+      "physical_loc": [
+        1509,
+        236,
+        96
+      ],
+      "logical_loc": 319,
+      "num_functions": 49,
+      "cyclomatic_complexity": 67,
+      "fan_in": 49,
+      "fan_out": 203
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/interchange": {
+      "physical_loc": [
+        1959,
+        307,
+        115
+      ],
+      "logical_loc": 411,
+      "num_functions": 81,
+      "cyclomatic_complexity": 331,
+      "fan_in": 81,
+      "fan_out": 209
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/dtypes": {
+      "physical_loc": [
+        8960,
+        1525,
+        513
+      ],
+      "logical_loc": 1379,
+      "num_functions": 306,
+      "cyclomatic_complexity": 1357,
+      "fan_in": 306,
+      "fan_out": 981
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/groupby": {
+      "physical_loc": [
+        12135,
+        1730,
+        520
+      ],
+      "logical_loc": 2190,
+      "num_functions": 272,
+      "cyclomatic_complexity": 3594,
+      "fan_in": 272,
+      "fan_out": 1076
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/internals": {
+      "physical_loc": [
+        6811,
+        1127,
+        732
+      ],
+      "logical_loc": 1248,
+      "num_functions": 274,
+      "cyclomatic_complexity": 3426,
+      "fan_in": 274,
+      "fan_out": 885
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/computation": {
+      "physical_loc": [
+        3863,
+        742,
+        185
+      ],
+      "logical_loc": 655,
+      "num_functions": 208,
+      "cyclomatic_complexity": 1345,
+      "fan_in": 208,
+      "fan_out": 472
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/_numba": {
+      "physical_loc": [
+        831,
+        154,
+        81
+      ],
+      "logical_loc": 151,
+      "num_functions": 60,
+      "cyclomatic_complexity": 108,
+      "fan_in": 60,
+      "fan_out": 134
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/_numba/kernels": {
+      "physical_loc": [
+        939,
+        136,
+        30
+      ],
+      "logical_loc": 397,
+      "num_functions": 18,
+      "cyclomatic_complexity": 50,
+      "fan_in": 18,
+      "fan_out": 102
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/window": {
+      "physical_loc": [
+        6222,
+        624,
+        123
+      ],
+      "logical_loc": 1850,
+      "num_functions": 170,
+      "cyclomatic_complexity": 1607,
+      "fan_in": 170,
+      "fan_out": 1319
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/arrays": {
+      "physical_loc": [
+        22806,
+        3599,
+        1410
+      ],
+      "logical_loc": 4035,
+      "num_functions": 800,
+      "cyclomatic_complexity": 18777,
+      "fan_in": 800,
+      "fan_out": 2391
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/arrays/arrow": {
+      "physical_loc": [
+        3839,
+        508,
+        190
+      ],
+      "logical_loc": 792,
+      "num_functions": 189,
+      "cyclomatic_complexity": 7314,
+      "fan_in": 189,
+      "fan_out": 785
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/arrays/sparse": {
+      "physical_loc": [
+        2684,
+        446,
+        180
+      ],
+      "logical_loc": 477,
+      "num_functions": 96,
+      "cyclomatic_complexity": 2007,
+      "fan_in": 96,
+      "fan_out": 363
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/ops": {
+      "physical_loc": [
+        2102,
+        325,
+        119
+      ],
+      "logical_loc": 461,
+      "num_functions": 30,
+      "cyclomatic_complexity": 43,
+      "fan_in": 30,
+      "fan_out": 256
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/sparse": {
+      "physical_loc": [
+        5,
+        2,
+        0
+      ],
+      "logical_loc": 1,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 0
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/core/indexes": {
+      "physical_loc": [
+        19808,
+        3151,
+        1258
+      ],
+      "logical_loc": 4052,
+      "num_functions": 644,
+      "cyclomatic_complexity": 37315,
+      "fan_in": 644,
+      "fan_out": 3104
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/util": {
+      "physical_loc": [
+        1693,
+        306,
+        48
+      ],
+      "logical_loc": 416,
+      "num_functions": 63,
+      "cyclomatic_complexity": 257,
+      "fan_in": 63,
+      "fan_out": 273
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/util/version": {
+      "physical_loc": [
+        453,
+        106,
+        52
+      ],
+      "logical_loc": 128,
+      "num_functions": 44,
+      "cyclomatic_complexity": 131,
+      "fan_in": 44,
+      "fan_out": 122
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/io": {
+      "physical_loc": [
+        18030,
+        2647,
+        873
+      ],
+      "logical_loc": 3751,
+      "num_functions": 606,
+      "cyclomatic_complexity": 11352,
+      "fan_in": 606,
+      "fan_out": 2382
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/io/parsers": {
+      "physical_loc": [
+        5206,
+        753,
+        304
+      ],
+      "logical_loc": 899,
+      "num_functions": 124,
+      "cyclomatic_complexity": 3142,
+      "fan_in": 124,
+      "fan_out": 463
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/io/formats": {
+      "physical_loc": [
+        14215,
+        2102,
+        412
+      ],
+      "logical_loc": 3819,
+      "num_functions": 472,
+      "cyclomatic_complexity": 10995,
+      "fan_in": 472,
+      "fan_out": 2242
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/io/excel": {
+      "physical_loc": [
+        4127,
+        621,
+        128
+      ],
+      "logical_loc": 1172,
+      "num_functions": 137,
+      "cyclomatic_complexity": 1597,
+      "fan_in": 137,
+      "fan_out": 658
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/io/json": {
+      "physical_loc": [
+        2438,
+        333,
+        61
+      ],
+      "logical_loc": 779,
+      "num_functions": 66,
+      "cyclomatic_complexity": 425,
+      "fan_in": 66,
+      "fan_out": 389
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/io/sas": {
+      "physical_loc": [
+        1740,
+        241,
+        70
+      ],
+      "logical_loc": 708,
+      "num_functions": 49,
+      "cyclomatic_complexity": 1186,
+      "fan_in": 49,
+      "fan_out": 310
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/io/clipboard": {
+      "physical_loc": [
+        747,
+        135,
+        50
+      ],
+      "logical_loc": 196,
+      "num_functions": 46,
+      "cyclomatic_complexity": 86,
+      "fan_in": 46,
+      "fan_out": 181
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tseries": {
+      "physical_loc": [
+        1413,
+        228,
+        42
+      ],
+      "logical_loc": 423,
+      "num_functions": 60,
+      "cyclomatic_complexity": 320,
+      "fan_in": 60,
+      "fan_out": 301
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests": {
+      "physical_loc": [
+        6168,
+        1090,
+        298
+      ],
+      "logical_loc": 2593,
+      "num_functions": 405,
+      "cyclomatic_complexity": 865,
+      "fan_in": 405,
+      "fan_out": 3119
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/series": {
+      "physical_loc": [
+        6009,
+        1067,
+        507
+      ],
+      "logical_loc": 1829,
+      "num_functions": 400,
+      "cyclomatic_complexity": 2595,
+      "fan_in": 400,
+      "fan_out": 2198
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/series/methods": {
+      "physical_loc": [
+        11917,
+        2093,
+        794
+      ],
+      "logical_loc": 4287,
+      "num_functions": 692,
+      "cyclomatic_complexity": 1385,
+      "fan_in": 692,
+      "fan_out": 5521
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/series/accessors": {
+      "physical_loc": [
+        1460,
+        199,
+        90
+      ],
+      "logical_loc": 375,
+      "num_functions": 69,
+      "cyclomatic_complexity": 282,
+      "fan_in": 69,
+      "fan_out": 447
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/series/indexing": {
+      "physical_loc": [
+        4549,
+        946,
+        340
+      ],
+      "logical_loc": 1345,
+      "num_functions": 312,
+      "cyclomatic_complexity": 478,
+      "fan_in": 312,
+      "fan_out": 1481
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/reshape": {
+      "physical_loc": [
+        8126,
+        995,
+        313
+      ],
+      "logical_loc": 3140,
+      "num_functions": 372,
+      "cyclomatic_complexity": 1959,
+      "fan_in": 372,
+      "fan_out": 3191
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/reshape/concat": {
+      "physical_loc": [
+        4237,
+        704,
+        306
+      ],
+      "logical_loc": 1868,
+      "num_functions": 211,
+      "cyclomatic_complexity": 500,
+      "fan_in": 211,
+      "fan_out": 2334
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/reshape/merge": {
+      "physical_loc": [
+        9608,
+        1106,
+        349
+      ],
+      "logical_loc": 3874,
+      "num_functions": 344,
+      "cyclomatic_complexity": 1298,
+      "fan_in": 344,
+      "fan_out": 3058
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/apply": {
+      "physical_loc": [
+        3862,
+        745,
+        286
+      ],
+      "logical_loc": 820,
+      "num_functions": 264,
+      "cyclomatic_complexity": 347,
+      "fan_in": 264,
+      "fan_out": 997
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/strings": {
+      "physical_loc": [
+        5053,
+        902,
+        337
+      ],
+      "logical_loc": 2031,
+      "num_functions": 242,
+      "cyclomatic_complexity": 283,
+      "fan_in": 242,
+      "fan_out": 2238
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/tools": {
+      "physical_loc": [
+        5095,
+        668,
+        425
+      ],
+      "logical_loc": 907,
+      "num_functions": 313,
+      "cyclomatic_complexity": 637,
+      "fan_in": 313,
+      "fan_out": 1093
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/extension": {
+      "physical_loc": [
+        6115,
+        1104,
+        295
+      ],
+      "logical_loc": 1028,
+      "num_functions": 484,
+      "cyclomatic_complexity": 2730,
+      "fan_in": 484,
+      "fan_out": 1207
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/extension/decimal": {
+      "physical_loc": [
+        750,
+        167,
+        50
+      ],
+      "logical_loc": 309,
+      "num_functions": 75,
+      "cyclomatic_complexity": 377,
+      "fan_in": 75,
+      "fan_out": 409
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/extension/array_with_attr": {
+      "physical_loc": [
+        128,
+        30,
+        4
+      ],
+      "logical_loc": 51,
+      "num_functions": 10,
+      "cyclomatic_complexity": 40,
+      "fan_in": 10,
+      "fan_out": 50
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/extension/date": {
+      "physical_loc": [
+        193,
+        36,
+        5
+      ],
+      "logical_loc": 77,
+      "num_functions": 17,
+      "cyclomatic_complexity": 72,
+      "fan_in": 17,
+      "fan_out": 81
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/extension/json": {
+      "physical_loc": [
+        765,
+        130,
+        61
+      ],
+      "logical_loc": 271,
+      "num_functions": 81,
+      "cyclomatic_complexity": 408,
+      "fan_in": 81,
+      "fan_out": 380
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/extension/list": {
+      "physical_loc": [
+        176,
+        36,
+        10
+      ],
+      "logical_loc": 67,
+      "num_functions": 14,
+      "cyclomatic_complexity": 126,
+      "fan_in": 14,
+      "fan_out": 62
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/extension/base": {
+      "physical_loc": [
+        3934,
+        761,
+        309
+      ],
+      "logical_loc": 1738,
+      "num_functions": 285,
+      "cyclomatic_complexity": 2204,
+      "fan_in": 285,
+      "fan_out": 1834
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/resample": {
+      "physical_loc": [
+        6214,
+        1055,
+        347
+      ],
+      "logical_loc": 1992,
+      "num_functions": 322,
+      "cyclomatic_complexity": 447,
+      "fan_in": 322,
+      "fan_out": 2818
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/util": {
+      "physical_loc": [
+        4031,
+        1004,
+        136
+      ],
+      "logical_loc": 1346,
+      "num_functions": 307,
+      "cyclomatic_complexity": 339,
+      "fan_in": 307,
+      "fan_out": 1452
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/config": {
+      "physical_loc": [
+        638,
+        138,
+        47
+      ],
+      "logical_loc": 252,
+      "num_functions": 41,
+      "cyclomatic_complexity": 42,
+      "fan_in": 41,
+      "fan_out": 347
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/io": {
+      "physical_loc": [
+        14602,
+        2315,
+        680
+      ],
+      "logical_loc": 3959,
+      "num_functions": 763,
+      "cyclomatic_complexity": 3281,
+      "fan_in": 763,
+      "fan_out": 4248
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/io/formats": {
+      "physical_loc": [
+        8589,
+        1105,
+        410
+      ],
+      "logical_loc": 2671,
+      "num_functions": 463,
+      "cyclomatic_complexity": 1240,
+      "fan_in": 463,
+      "fan_out": 2211
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/io/formats/style": {
+      "physical_loc": [
+        5830,
+        835,
+        232
+      ],
+      "logical_loc": 2120,
+      "num_functions": 332,
+      "cyclomatic_complexity": 1236,
+      "fan_in": 332,
+      "fan_out": 2187
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/io/excel": {
+      "physical_loc": [
+        4484,
+        741,
+        324
+      ],
+      "logical_loc": 1291,
+      "num_functions": 240,
+      "cyclomatic_complexity": 1577,
+      "fan_in": 240,
+      "fan_out": 1284
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/io/parser": {
+      "physical_loc": [
+        8441,
+        1410,
+        437
+      ],
+      "logical_loc": 2502,
+      "num_functions": 397,
+      "cyclomatic_complexity": 543,
+      "fan_in": 397,
+      "fan_out": 2245
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/io/parser/usecols": {
+      "physical_loc": [
+        730,
+        131,
+        33
+      ],
+      "logical_loc": 262,
+      "num_functions": 33,
+      "cyclomatic_complexity": 37,
+      "fan_in": 33,
+      "fan_out": 250
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/io/parser/dtypes": {
+      "physical_loc": [
+        1157,
+        199,
+        42
+      ],
+      "logical_loc": 253,
+      "num_functions": 57,
+      "cyclomatic_complexity": 61,
+      "fan_in": 57,
+      "fan_out": 268
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/io/parser/common": {
+      "physical_loc": [
+        3000,
+        526,
+        144
+      ],
+      "logical_loc": 991,
+      "num_functions": 131,
+      "cyclomatic_complexity": 160,
+      "fan_in": 131,
+      "fan_out": 879
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/io/xml": {
+      "physical_loc": [
+        3967,
+        711,
+        128
+      ],
+      "logical_loc": 1035,
+      "num_functions": 171,
+      "cyclomatic_complexity": 176,
+      "fan_in": 171,
+      "fan_out": 916
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/io/json": {
+      "physical_loc": [
+        6165,
+        873,
+        270
+      ],
+      "logical_loc": 1742,
+      "num_functions": 391,
+      "cyclomatic_complexity": 1165,
+      "fan_in": 391,
+      "fan_out": 1483
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/io/sas": {
+      "physical_loc": [
+        658,
+        123,
+        72
+      ],
+      "logical_loc": 274,
+      "num_functions": 42,
+      "cyclomatic_complexity": 56,
+      "fan_in": 42,
+      "fan_out": 305
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/io/pytables": {
+      "physical_loc": [
+        6553,
+        1211,
+        478
+      ],
+      "logical_loc": 2488,
+      "num_functions": 221,
+      "cyclomatic_complexity": 260,
+      "fan_in": 221,
+      "fan_out": 3055
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/tseries": {
+      "physical_loc": [
+        0,
+        0,
+        0
+      ],
+      "logical_loc": 0,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 0
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/tseries/holiday": {
+      "physical_loc": [
+        745,
+        115,
+        40
+      ],
+      "logical_loc": 249,
+      "num_functions": 34,
+      "cyclomatic_complexity": 37,
+      "fan_in": 34,
+      "fan_out": 324
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/tseries/frequencies": {
+      "physical_loc": [
+        642,
+        111,
+        30
+      ],
+      "logical_loc": 87,
+      "num_functions": 39,
+      "cyclomatic_complexity": 47,
+      "fan_in": 39,
+      "fan_out": 78
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/tseries/offsets": {
+      "physical_loc": [
+        8669,
+        1031,
+        266
+      ],
+      "logical_loc": 3528,
+      "num_functions": 344,
+      "cyclomatic_complexity": 937,
+      "fan_in": 344,
+      "fan_out": 5899
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/copy_view": {
+      "physical_loc": [
+        4722,
+        1071,
+        331
+      ],
+      "logical_loc": 1444,
+      "num_functions": 281,
+      "cyclomatic_complexity": 341,
+      "fan_in": 281,
+      "fan_out": 2519
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/copy_view/index": {
+      "physical_loc": [
+        260,
+        48,
+        1
+      ],
+      "logical_loc": 125,
+      "num_functions": 20,
+      "cyclomatic_complexity": 21,
+      "fan_in": 20,
+      "fan_out": 141
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/interchange": {
+      "physical_loc": [
+        919,
+        143,
+        39
+      ],
+      "logical_loc": 257,
+      "num_functions": 45,
+      "cyclomatic_complexity": 56,
+      "fan_in": 45,
+      "fan_out": 308
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/frame": {
+      "physical_loc": [
+        15888,
+        2437,
+        1090
+      ],
+      "logical_loc": 4216,
+      "num_functions": 909,
+      "cyclomatic_complexity": 7553,
+      "fan_in": 909,
+      "fan_out": 4961
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/frame/methods": {
+      "physical_loc": [
+        25686,
+        3987,
+        1736
+      ],
+      "logical_loc": 9297,
+      "num_functions": 1285,
+      "cyclomatic_complexity": 3519,
+      "fan_in": 1285,
+      "fan_out": 10879
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/frame/constructors": {
+      "physical_loc": [
+        726,
+        123,
+        50
+      ],
+      "logical_loc": 319,
+      "num_functions": 45,
+      "cyclomatic_complexity": 285,
+      "fan_in": 45,
+      "fan_out": 411
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/frame/indexing": {
+      "physical_loc": [
+        6044,
+        1053,
+        511
+      ],
+      "logical_loc": 2469,
+      "num_functions": 356,
+      "cyclomatic_complexity": 914,
+      "fan_in": 356,
+      "fan_out": 2581
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/dtypes": {
+      "physical_loc": [
+        5280,
+        904,
+        262
+      ],
+      "logical_loc": 1487,
+      "num_functions": 385,
+      "cyclomatic_complexity": 802,
+      "fan_in": 385,
+      "fan_out": 2376
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/dtypes/cast": {
+      "physical_loc": [
+        1276,
+        256,
+        99
+      ],
+      "logical_loc": 460,
+      "num_functions": 65,
+      "cyclomatic_complexity": 79,
+      "fan_in": 65,
+      "fan_out": 613
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/libs": {
+      "physical_loc": [
+        1641,
+        302,
+        80
+      ],
+      "logical_loc": 673,
+      "num_functions": 104,
+      "cyclomatic_complexity": 181,
+      "fan_in": 104,
+      "fan_out": 783
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/groupby": {
+      "physical_loc": [
+        15270,
+        2521,
+        990
+      ],
+      "logical_loc": 3335,
+      "num_functions": 725,
+      "cyclomatic_complexity": 1357,
+      "fan_in": 725,
+      "fan_out": 3947
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/groupby/methods": {
+      "physical_loc": [
+        4257,
+        596,
+        209
+      ],
+      "logical_loc": 1790,
+      "num_functions": 171,
+      "cyclomatic_complexity": 228,
+      "fan_in": 171,
+      "fan_out": 1852
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/groupby/aggregate": {
+      "physical_loc": [
+        3447,
+        610,
+        212
+      ],
+      "logical_loc": 1004,
+      "num_functions": 188,
+      "cyclomatic_complexity": 234,
+      "fan_in": 188,
+      "fan_out": 1360
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/groupby/transform": {
+      "physical_loc": [
+        1928,
+        355,
+        129
+      ],
+      "logical_loc": 607,
+      "num_functions": 102,
+      "cyclomatic_complexity": 145,
+      "fan_in": 102,
+      "fan_out": 793
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/internals": {
+      "physical_loc": [
+        1599,
+        246,
+        76
+      ],
+      "logical_loc": 639,
+      "num_functions": 91,
+      "cyclomatic_complexity": 421,
+      "fan_in": 91,
+      "fan_out": 968
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/computation": {
+      "physical_loc": [
+        2061,
+        306,
+        101
+      ],
+      "logical_loc": 267,
+      "num_functions": 123,
+      "cyclomatic_complexity": 427,
+      "fan_in": 123,
+      "fan_out": 256
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/plotting": {
+      "physical_loc": [
+        6789,
+        929,
+        368
+      ],
+      "logical_loc": 1977,
+      "num_functions": 475,
+      "cyclomatic_complexity": 4884,
+      "fan_in": 475,
+      "fan_out": 2277
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/plotting/frame": {
+      "physical_loc": [
+        4815,
+        599,
+        317
+      ],
+      "logical_loc": 1386,
+      "num_functions": 319,
+      "cyclomatic_complexity": 6124,
+      "fan_in": 319,
+      "fan_out": 1787
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/window": {
+      "physical_loc": [
+        10153,
+        1503,
+        486
+      ],
+      "logical_loc": 3995,
+      "num_functions": 502,
+      "cyclomatic_complexity": 802,
+      "fan_in": 502,
+      "fan_out": 5029
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/window/moments": {
+      "physical_loc": [
+        703,
+        126,
+        42
+      ],
+      "logical_loc": 309,
+      "num_functions": 37,
+      "cyclomatic_complexity": 47,
+      "fan_in": 37,
+      "fan_out": 404
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays": {
+      "physical_loc": [
+        3462,
+        650,
+        230
+      ],
+      "logical_loc": 785,
+      "num_functions": 203,
+      "cyclomatic_complexity": 744,
+      "fan_in": 203,
+      "fan_out": 875
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays/string_": {
+      "physical_loc": [
+        1193,
+        286,
+        42
+      ],
+      "logical_loc": 427,
+      "num_functions": 71,
+      "cyclomatic_complexity": 101,
+      "fan_in": 71,
+      "fan_out": 439
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays/interval": {
+      "physical_loc": [
+        524,
+        99,
+        24
+      ],
+      "logical_loc": 246,
+      "num_functions": 24,
+      "cyclomatic_complexity": 30,
+      "fan_in": 24,
+      "fan_out": 276
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays/masked": {
+      "physical_loc": [
+        615,
+        140,
+        46
+      ],
+      "logical_loc": 256,
+      "num_functions": 33,
+      "cyclomatic_complexity": 40,
+      "fan_in": 33,
+      "fan_out": 294
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays/period": {
+      "physical_loc": [
+        375,
+        91,
+        13
+      ],
+      "logical_loc": 158,
+      "num_functions": 23,
+      "cyclomatic_complexity": 25,
+      "fan_in": 23,
+      "fan_out": 201
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays/categorical": {
+      "physical_loc": [
+        4013,
+        719,
+        288
+      ],
+      "logical_loc": 1344,
+      "num_functions": 241,
+      "cyclomatic_complexity": 429,
+      "fan_in": 241,
+      "fan_out": 1820
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays/datetimes": {
+      "physical_loc": [
+        413,
+        87,
+        12
+      ],
+      "logical_loc": 188,
+      "num_functions": 24,
+      "cyclomatic_complexity": 32,
+      "fan_in": 24,
+      "fan_out": 205
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays/timedeltas": {
+      "physical_loc": [
+        294,
+        66,
+        5
+      ],
+      "logical_loc": 147,
+      "num_functions": 16,
+      "cyclomatic_complexity": 28,
+      "fan_in": 16,
+      "fan_out": 152
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays/boolean": {
+      "physical_loc": [
+        1073,
+        215,
+        60
+      ],
+      "logical_loc": 430,
+      "num_functions": 62,
+      "cyclomatic_complexity": 86,
+      "fan_in": 62,
+      "fan_out": 554
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays/integer": {
+      "physical_loc": [
+        1473,
+        309,
+        94
+      ],
+      "logical_loc": 571,
+      "num_functions": 85,
+      "cyclomatic_complexity": 100,
+      "fan_in": 85,
+      "fan_out": 704
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays/floating": {
+      "physical_loc": [
+        1094,
+        242,
+        60
+      ],
+      "logical_loc": 386,
+      "num_functions": 70,
+      "cyclomatic_complexity": 87,
+      "fan_in": 70,
+      "fan_out": 505
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays/sparse": {
+      "physical_loc": [
+        3232,
+        612,
+        157
+      ],
+      "logical_loc": 1377,
+      "num_functions": 203,
+      "cyclomatic_complexity": 251,
+      "fan_in": 203,
+      "fan_out": 1876
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arrays/numpy_": {
+      "physical_loc": [
+        393,
+        105,
+        26
+      ],
+      "logical_loc": 146,
+      "num_functions": 32,
+      "cyclomatic_complexity": 32,
+      "fan_in": 32,
+      "fan_out": 173
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/arithmetic": {
+      "physical_loc": [
+        9090,
+        1630,
+        708
+      ],
+      "logical_loc": 2300,
+      "num_functions": 387,
+      "cyclomatic_complexity": 1307,
+      "fan_in": 387,
+      "fan_out": 2711
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/construction": {
+      "physical_loc": [
+        18,
+        4,
+        0
+      ],
+      "logical_loc": 7,
+      "num_functions": 1,
+      "cyclomatic_complexity": 1,
+      "fan_in": 1,
+      "fan_out": 10
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/api": {
+      "physical_loc": [
+        595,
+        52,
+        18
+      ],
+      "logical_loc": 262,
+      "num_functions": 19,
+      "cyclomatic_complexity": 28,
+      "fan_in": 19,
+      "fan_out": 56
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/generic": {
+      "physical_loc": [
+        2318,
+        343,
+        184
+      ],
+      "logical_loc": 843,
+      "num_functions": 118,
+      "cyclomatic_complexity": 297,
+      "fan_in": 118,
+      "fan_out": 960
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/tslibs": {
+      "physical_loc": [
+        2507,
+        466,
+        124
+      ],
+      "logical_loc": 971,
+      "num_functions": 148,
+      "cyclomatic_complexity": 157,
+      "fan_in": 148,
+      "fan_out": 985
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexing": {
+      "physical_loc": [
+        10396,
+        1774,
+        928
+      ],
+      "logical_loc": 2780,
+      "num_functions": 565,
+      "cyclomatic_complexity": 1925,
+      "fan_in": 565,
+      "fan_out": 2855
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexing/interval": {
+      "physical_loc": [
+        459,
+        101,
+        40
+      ],
+      "logical_loc": 189,
+      "num_functions": 22,
+      "cyclomatic_complexity": 52,
+      "fan_in": 22,
+      "fan_out": 243
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexing/multiindex": {
+      "physical_loc": [
+        3844,
+        607,
+        278
+      ],
+      "logical_loc": 1266,
+      "num_functions": 185,
+      "cyclomatic_complexity": 390,
+      "fan_in": 185,
+      "fan_out": 1302
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/reductions": {
+      "physical_loc": [
+        1955,
+        342,
+        168
+      ],
+      "logical_loc": 937,
+      "num_functions": 98,
+      "cyclomatic_complexity": 265,
+      "fan_in": 98,
+      "fan_out": 1133
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/scalar": {
+      "physical_loc": [
+        1017,
+        191,
+        57
+      ],
+      "logical_loc": 372,
+      "num_functions": 56,
+      "cyclomatic_complexity": 90,
+      "fan_in": 56,
+      "fan_out": 376
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/scalar/interval": {
+      "physical_loc": [
+        481,
+        83,
+        14
+      ],
+      "logical_loc": 217,
+      "num_functions": 32,
+      "cyclomatic_complexity": 50,
+      "fan_in": 32,
+      "fan_out": 215
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/scalar/timedelta": {
+      "physical_loc": [
+        2723,
+        495,
+        202
+      ],
+      "logical_loc": 1134,
+      "num_functions": 172,
+      "cyclomatic_complexity": 263,
+      "fan_in": 172,
+      "fan_out": 1300
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/scalar/timedelta/methods": {
+      "physical_loc": [
+        268,
+        49,
+        7
+      ],
+      "logical_loc": 134,
+      "num_functions": 10,
+      "cyclomatic_complexity": 47,
+      "fan_in": 10,
+      "fan_out": 88
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/scalar/period": {
+      "physical_loc": [
+        2491,
+        416,
+        90
+      ],
+      "logical_loc": 710,
+      "num_functions": 101,
+      "cyclomatic_complexity": 382,
+      "fan_in": 101,
+      "fan_out": 666
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/scalar/timestamp": {
+      "physical_loc": [
+        2925,
+        499,
+        252
+      ],
+      "logical_loc": 1006,
+      "num_functions": 174,
+      "cyclomatic_complexity": 479,
+      "fan_in": 174,
+      "fan_out": 834
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/scalar/timestamp/methods": {
+      "physical_loc": [
+        1229,
+        185,
+        83
+      ],
+      "logical_loc": 584,
+      "num_functions": 69,
+      "cyclomatic_complexity": 268,
+      "fan_in": 69,
+      "fan_out": 510
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/base": {
+      "physical_loc": [
+        1563,
+        268,
+        98
+      ],
+      "logical_loc": 604,
+      "num_functions": 69,
+      "cyclomatic_complexity": 144,
+      "fan_in": 69,
+      "fan_out": 654
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes": {
+      "physical_loc": [
+        5964,
+        984,
+        437
+      ],
+      "logical_loc": 1113,
+      "num_functions": 380,
+      "cyclomatic_complexity": 1674,
+      "fan_in": 380,
+      "fan_out": 1241
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/ranges": {
+      "physical_loc": [
+        1938,
+        367,
+        93
+      ],
+      "logical_loc": 552,
+      "num_functions": 116,
+      "cyclomatic_complexity": 173,
+      "fan_in": 116,
+      "fan_out": 792
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/base_class": {
+      "physical_loc": [
+        714,
+        116,
+        62
+      ],
+      "logical_loc": 293,
+      "num_functions": 50,
+      "cyclomatic_complexity": 110,
+      "fan_in": 50,
+      "fan_out": 340
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/interval": {
+      "physical_loc": [
+        3373,
+        549,
+        229
+      ],
+      "logical_loc": 1081,
+      "num_functions": 171,
+      "cyclomatic_complexity": 423,
+      "fan_in": 171,
+      "fan_out": 1343
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/multi": {
+      "physical_loc": [
+        7212,
+        1396,
+        622
+      ],
+      "logical_loc": 2512,
+      "num_functions": 378,
+      "cyclomatic_complexity": 426,
+      "fan_in": 378,
+      "fan_out": 2923
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/period": {
+      "physical_loc": [
+        3059,
+        587,
+        135
+      ],
+      "logical_loc": 1251,
+      "num_functions": 144,
+      "cyclomatic_complexity": 393,
+      "fan_in": 144,
+      "fan_out": 1402
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/period/methods": {
+      "physical_loc": [
+        758,
+        132,
+        21
+      ],
+      "logical_loc": 359,
+      "num_functions": 37,
+      "cyclomatic_complexity": 60,
+      "fan_in": 37,
+      "fan_out": 412
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/categorical": {
+      "physical_loc": [
+        1635,
+        281,
+        126
+      ],
+      "logical_loc": 661,
+      "num_functions": 94,
+      "cyclomatic_complexity": 125,
+      "fan_in": 94,
+      "fan_out": 921
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/numeric": {
+      "physical_loc": [
+        1793,
+        349,
+        112
+      ],
+      "logical_loc": 786,
+      "num_functions": 117,
+      "cyclomatic_complexity": 248,
+      "fan_in": 117,
+      "fan_out": 1057
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/object": {
+      "physical_loc": [
+        174,
+        25,
+        18
+      ],
+      "logical_loc": 41,
+      "num_functions": 7,
+      "cyclomatic_complexity": 14,
+      "fan_in": 7,
+      "fan_out": 37
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/datetimes": {
+      "physical_loc": [
+        6588,
+        1055,
+        457
+      ],
+      "logical_loc": 1678,
+      "num_functions": 373,
+      "cyclomatic_complexity": 979,
+      "fan_in": 373,
+      "fan_out": 1803
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/datetimes/methods": {
+      "physical_loc": [
+        2829,
+        446,
+        148
+      ],
+      "logical_loc": 1103,
+      "num_functions": 150,
+      "cyclomatic_complexity": 309,
+      "fan_in": 150,
+      "fan_out": 1274
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/timedeltas": {
+      "physical_loc": [
+        1643,
+        308,
+        113
+      ],
+      "logical_loc": 604,
+      "num_functions": 95,
+      "cyclomatic_complexity": 188,
+      "fan_in": 95,
+      "fan_out": 670
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/timedeltas/methods": {
+      "physical_loc": [
+        498,
+        86,
+        26
+      ],
+      "logical_loc": 179,
+      "num_functions": 28,
+      "cyclomatic_complexity": 39,
+      "fan_in": 28,
+      "fan_out": 230
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/string": {
+      "physical_loc": [
+        220,
+        37,
+        9
+      ],
+      "logical_loc": 101,
+      "num_functions": 16,
+      "cyclomatic_complexity": 22,
+      "fan_in": 16,
+      "fan_out": 109
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/tests/indexes/datetimelike_": {
+      "physical_loc": [
+        833,
+        129,
+        31
+      ],
+      "logical_loc": 325,
+      "num_functions": 46,
+      "cyclomatic_complexity": 89,
+      "fan_in": 46,
+      "fan_out": 446
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_testing": {
+      "physical_loc": [
+        2823,
+        411,
+        115
+      ],
+      "logical_loc": 612,
+      "num_functions": 64,
+      "cyclomatic_complexity": 129,
+      "fan_in": 64,
+      "fan_out": 388
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs": {
+      "physical_loc": [
+        27,
+        2,
+        3
+      ],
+      "logical_loc": 11,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 1
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/include/pandas": {
+      "physical_loc": [
+        333,
+        66,
+        19
+      ],
+      "logical_loc": 126,
+      "num_functions": 27,
+      "cyclomatic_complexity": 61,
+      "fan_in": 27,
+      "fan_out": 61
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/include/pandas/datetime": {
+      "physical_loc": [
+        137,
+        21,
+        13
+      ],
+      "logical_loc": 20,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 32
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/include/pandas/parser": {
+      "physical_loc": [
+        367,
+        80,
+        34
+      ],
+      "logical_loc": 72,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 61
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/include/pandas/vendored/ujson/lib": {
+      "physical_loc": [
+        326,
+        62,
+        46
+      ],
+      "logical_loc": 66,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 31
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/include/pandas/vendored/numpy/datetime": {
+      "physical_loc": [
+        205,
+        39,
+        78
+      ],
+      "logical_loc": 28,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 13
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/include/pandas/vendored/klib": {
+      "physical_loc": [
+        1145,
+        166,
+        170
+      ],
+      "logical_loc": 58,
+      "num_functions": 68,
+      "cyclomatic_complexity": 146,
+      "fan_in": 68,
+      "fan_out": 59
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/window": {
+      "physical_loc": [
+        0,
+        0,
+        0
+      ],
+      "logical_loc": 0,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 0
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/tslibs": {
+      "physical_loc": [
+        89,
+        1,
+        0
+      ],
+      "logical_loc": 44,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 7
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/src/datetime": {
+      "physical_loc": [
+        401,
+        58,
+        70
+      ],
+      "logical_loc": 61,
+      "num_functions": 29,
+      "cyclomatic_complexity": 74,
+      "fan_in": 29,
+      "fan_out": 35
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/src/parser": {
+      "physical_loc": [
+        2315,
+        338,
+        363
+      ],
+      "logical_loc": 449,
+      "num_functions": 195,
+      "cyclomatic_complexity": 625,
+      "fan_in": 195,
+      "fan_out": 225
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/src/vendored/ujson/python": {
+      "physical_loc": [
+        2751,
+        386,
+        155
+      ],
+      "logical_loc": 486,
+      "num_functions": 305,
+      "cyclomatic_complexity": 664,
+      "fan_in": 305,
+      "fan_out": 459
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/src/vendored/ujson/lib": {
+      "physical_loc": [
+        2426,
+        261,
+        172
+      ],
+      "logical_loc": 76,
+      "num_functions": 127,
+      "cyclomatic_complexity": 488,
+      "fan_in": 127,
+      "fan_out": 33
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_libs/src/vendored/numpy/datetime": {
+      "physical_loc": [
+        2023,
+        226,
+        300
+      ],
+      "logical_loc": 658,
+      "num_functions": 225,
+      "cyclomatic_complexity": 666,
+      "fan_in": 225,
+      "fan_out": 251
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/plotting": {
+      "physical_loc": [
+        2894,
+        483,
+        17
+      ],
+      "logical_loc": 417,
+      "num_functions": 39,
+      "cyclomatic_complexity": 181,
+      "fan_in": 39,
+      "fan_out": 188
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/plotting/_matplotlib": {
+      "physical_loc": [
+        6336,
+        994,
+        412
+      ],
+      "logical_loc": 2156,
+      "num_functions": 265,
+      "cyclomatic_complexity": 1769,
+      "fan_in": 265,
+      "fan_out": 1487
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/arrays": {
+      "physical_loc": [
+        37,
+        3,
+        0
+      ],
+      "logical_loc": 15,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 1
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/api": {
+      "physical_loc": [
+        81,
+        12,
+        0
+      ],
+      "logical_loc": 16,
+      "num_functions": 1,
+      "cyclomatic_complexity": 1,
+      "fan_in": 1,
+      "fan_out": 6
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/api/indexers": {
+      "physical_loc": [
+        17,
+        2,
+        0
+      ],
+      "logical_loc": 6,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 1
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/api/types": {
+      "physical_loc": [
+        23,
+        3,
+        0
+      ],
+      "logical_loc": 9,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 1
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/api/interchange": {
+      "physical_loc": [
+        8,
+        2,
+        0
+      ],
+      "logical_loc": 2,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 0
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/api/extensions": {
+      "physical_loc": [
+        33,
+        4,
+        0
+      ],
+      "logical_loc": 13,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 3
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/api/typing": {
+      "physical_loc": [
+        196,
+        5,
+        2
+      ],
+      "logical_loc": 93,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 4
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/api/executors": {
+      "physical_loc": [
+        7,
+        2,
+        0
+      ],
+      "logical_loc": 1,
+      "num_functions": 0,
+      "cyclomatic_complexity": 0,
+      "fan_in": 0,
+      "fan_out": 0
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/errors": {
+      "physical_loc": [
+        1116,
+        224,
+        2
+      ],
+      "logical_loc": 102,
+      "num_functions": 7,
+      "cyclomatic_complexity": 11,
+      "fan_in": 7,
+      "fan_out": 55
+    },
+    "/Users/MBABU1/Desktop/Software_metrics_assignment_1/software_metric_assignment_1/pandas/pandas/_config": {
+      "physical_loc": [
+        1240,
+        258,
+        49
+      ],
+      "logical_loc": 269,
+      "num_functions": 37,
+      "cyclomatic_complexity": 68,
+      "fan_in": 37,
+      "fan_out": 197
+    }
+  }
+}
